@@ -9,8 +9,6 @@ Hébergeur WEB / Gaming et autre...
 | ----------------- | ------------------------------------------------------------------ |
 | Rouge Clair | ![#DF2F2F](https://via.placeholder.com/10/DF2F2F?text=+) #DF2F2F |
 | Rouge Foncé | ![#BF1C1C](https://via.placeholder.com/10/BF1C1C?text=+) #BF1C1C |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
 ## Website
