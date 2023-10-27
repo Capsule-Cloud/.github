@@ -1,7 +1,7 @@
 # Oxiz Studio
 Hébergeur WEB / Gaming et autre...
 
-![Logo](https://cdn.discordapp.com/attachments/563003073274839042/1167104466919636992/OXIZ.png?ex=654ce9bc&is=653a74bc&hm=d8d0b37210074e2033d60c107be7279b862e1f46a88dfe7f9ef0be419d0c4ff0&)
+![Logo](https://cdn.discordapp.com/attachments/563003073274839042/1167371594369351720/Oxizbanner-removebg-preview.png?ex=654de284&is=653b6d84&hm=077d2f2320b949fb5867595411c68ac4f4489b35aa94d3fb8682887f004cbbc8&)
 
 ## Références couleurs
 
